@@ -7,3 +7,6 @@ node_modules/
 
 .vscode/
 .idea/
+
+# tools/import-listing.mjs 的輸出,補齊後才貼進 data/cars.js
+data/imported-*.js
